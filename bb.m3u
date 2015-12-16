@@ -2,7 +2,7 @@
 #EXTINF:-1,[I][B][COLOR green]--- Baris IPTV ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR green][I][B]Tempor‰re Sender[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR green][I][B]Tempor√§re Sender[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow][I][B]--- BUNDESLIGA ---[/B][/I][/COLOR]
@@ -51,19 +51,24 @@ http://0.0.0.0:1234
 http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6412.ts
 #EXTINF:-1,LigTV HD 1
 http://satloveriptv.com:8090/live/mexicano/mexciano/4411.ts
+#EXTINF:-1,LigTV HD 1
+http://ipsatpro.com:8000/live/mesut/mesut/406.ts
 
 #EXTINF:-1,LigTV HD 2
 http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6413.ts
 #EXTINF:-1,LigTV HD 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/4412.ts
-
 #EXTINF:-1,LigTV HD 2
 http://skyiptv.ddns.net:8000/live/shima/shima/245.m3u8
+#EXTINF:-1,LigTV HD 2
+http://ipsatpro.com:8000/live/mesut/mesut/405.ts
 
 #EXTINF:-1,LigTV HD 3
 http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6414.ts
 #EXTINF:-1,LigTV HD 3
 http://satloveriptv.com:8090/live/mexicano/mexciano/4413.ts
+#EXTINF:-1,LigTV HD 3
+http://ipsatpro.com:8000/live/mesut/mesut/404.ts
 
 #EXTINF:-1,[I][B][COLOR yellow]====SKY SERVER====[/COLOR][/B][/I]
 
